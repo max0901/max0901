@@ -21,7 +21,7 @@ Hi there 👋 </br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
 
 <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat&logo=MySql&logoColor=white"/>
-
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <br>
 <hr>
