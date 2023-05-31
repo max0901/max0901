@@ -22,7 +22,7 @@
 <img alt="React" src ="https://img.shields.io/badge/React-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
 <img alt="Ajax" src ="https://img.shields.io/badge/Ajax-0094F5.svg?&style=flat&logo=Ajax&logoColor=white"/>
 <br>
-<h3>FrontEnd</h3>
+<h3>BackEnd</h3>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
 
 <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat&logo=MySql&logoColor=white"/>
