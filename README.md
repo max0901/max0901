@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=300&section=header&text=JeongMin%20Lee&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
+<div align="center">
+
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=300&section=header&text=JeongMin%20Lee&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
+
 
 ### Hi 👋
 
@@ -25,7 +28,9 @@
 <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat&logo=MySql&logoColor=white"/>
 
 </div>
+
 <br>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggyo0901&count_private=true&include_all_commits=true&show_icons=true&theme=radical) 
+</div>
