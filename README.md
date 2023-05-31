@@ -1,6 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=300&section=header&text=JeongMin%20Lee&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
 
-Hi there 👋 </br>
+### Hi 👋
+
+ </br>
 반갑습니다🤗  개발자를 꿈꾸는 이정민이라고 합니다. </br>
 매일 한 발자국씩 전진하는 삶을 지향하여 매일 매일 기록하려 합니다.</br>
 
@@ -21,9 +23,9 @@ Hi there 👋 </br>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
 
 <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat&logo=MySql&logoColor=white"/>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <br>
 <hr>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggyo0901&count_private=true&include_all_commits=true&show_icons=true&theme=radical) 
